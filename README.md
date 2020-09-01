@@ -6,11 +6,11 @@
 ![GUI Picture](https://github.com/masonrapa/StaffLuxe/blob/master/gui.PNG?raw=true)
 
 # Options:
- ➤ Mute (__Mutes the players for a defined time__)<br>
- ➤ Frozen (__Frozen a suspect player__)<br>
- ➤ Warn (__Warns a player kicking him from the server__)<br>
- ➤ Ban (__Doesn't allow to join a player for a defined time__)<br>
- ➤ Tp (__Teleports you to the player in a second__)<br>
- ➤ Vanish (__Makes you invisible to other players__)<br>
- ➤ Clear chat (__Clear the last 40 lines of chat__)<br>
- ➤ Eagle (__Teleport you to all of the players for watching them__)<br>
+ ➤ Mute (_Mutes the players for a defined time_)<br>
+ ➤ Frozen (_Frozen a suspect player_)<br>
+ ➤ Warn (_Warns a player kicking him from the server_)<br>
+ ➤ Ban (_Doesn't allow to join a player for a defined time_)<br>
+ ➤ Tp (_Teleports you to the player in a second_)<br>
+ ➤ Vanish (_Makes you invisible to other players_)<br>
+ ➤ Clear chat (_Clear the last 40 lines of chat_)<br>
+ ➤ Eagle (_Teleport you to all of the players for watching them_)<br>
